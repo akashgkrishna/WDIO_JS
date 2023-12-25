@@ -1,0 +1,17 @@
+# Ignore node modules
+node_modules/
+
+# Ignore built files and directories
+/dist/
+/build/
+
+# Ignore log files
+*.log
+
+# Ignore specific directories
+/allure-results/
+/app/
+/chromedriver-mobile/
+
+# Ignore package lock file
+package-lock.json
